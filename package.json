@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node index.js",
     "dev":"echo hello",
-    "start": "node index.js"
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
